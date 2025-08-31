@@ -36,9 +36,10 @@ GCC for compiling the shell.
 ## Setup
 
 1. Clone this repository:
-
+```
 git clone https://github.com/Vinitkhandelwal01/minimal-linux-distro.git
 cd minimal-linux-distro
+```
 
 2. Download and extract the Linux kernel source (e.g., linux-6.6) to /path/to/linux-6.6.
 
